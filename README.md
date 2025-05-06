@@ -1,6 +1,6 @@
-##  👩🏻‍💻 Lucas Santos
+##  👨🏽‍💻 Lucas Santos
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedor Front-end`**
 <br>
 Atualmente cursando analise e desenvolvimento de sistemas e estou em transição de carreira, tenho capacidade de aprendizado rápido e resolução de problemas. 
 Já desenvolvi sites como freelance e já empreendi também na area de barbearia e também com confeitaria, trabalhei por mais de 10 anos em barbearia, onde desenvolvi habilidades em marketing, mídias sociais, vendas, proatividade, além de aprimorar minha comunicação e trabalho em equipe.
