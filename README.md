@@ -108,6 +108,14 @@ Minha língua materna é o português, e estou aprimorando meu inglês. Estou fo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Mongodb" 
+    title="Mongodb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
 
 <br>
 <br>
