@@ -2,11 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 <br>
-Atualmente cursando analise e desenvolvimento de sistemas e estou em transição de carreira, tenho capacidade de aprendizado rápido e resolução de problemas. 
-Já desenvolvi sites como freelance e já empreendi também na area de barbearia e também com confeitaria, trabalhei por mais de 10 anos em barbearia, onde desenvolvi habilidades em marketing, mídias sociais, vendas, proatividade, além de aprimorar minha comunicação e trabalho em equipe.
-Minha experiência como empreendedor e freelancer também me proporcionou conhecimentos em gestão de projetos, pesquisa on-line e organização, fundamentais para o desenvolvimento de aplicações.
-
-Minha língua materna é o português, e estou aprimorando meu inglês. Estou focado em me tornar um Desenvolvedor, sempre buscando aprimorar minhas habilidades técnicas e comportamentais para agregar valor aos projetos em que atuo.
+Profissional em transição de carreira, com forte capacidade de aprendizado rápido e adaptação a novos desafios tecnológicos. Experiência prática em desenvolvimento de sites e aplicações, com ênfase em qualidade, organização e trabalho em equipe.
 
 <p align="left">
     <a href="https://github.com/LucasSantos96?tab=repositories&sort=stargazers">
