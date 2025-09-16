@@ -1,6 +1,6 @@
 ##  👨🏽‍💻 Lucas Santos
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full Stack`**
 <br>
 Profissional em transição de carreira, com forte capacidade de aprendizado rápido e adaptação a novos desafios tecnológicos. Experiência prática em desenvolvimento de sites e aplicações, com ênfase em qualidade, organização e trabalho em equipe.
 
