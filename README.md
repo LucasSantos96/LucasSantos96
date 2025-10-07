@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 <br>
-Profissional em transição de carreira, com forte capacidade de aprendizado rápido e adaptação a novos desafios tecnológicos. Experiência prática em desenvolvimento de sites e aplicações, com ênfase em qualidade, organização e trabalho em equipe.
+Desenvolvedor com experiência prática em criação de sites e aplicações, aplicando boas práticas de código e foco em qualidade. Possuo rápida capacidade de aprendizado e adaptação a novas tecnologias e ambientes colaborativos.
 
 <p align="left">
     <a href="https://github.com/LucasSantos96?tab=repositories&sort=stargazers">
@@ -71,13 +71,14 @@ Profissional em transição de carreira, com forte capacidade de aprendizado rá
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg" 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img 
     align="left" 
     alt="React"
