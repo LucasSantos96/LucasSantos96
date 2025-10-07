@@ -16,16 +16,26 @@ Desenvolvedor com experiência prática em criação de sites e aplicações, ap
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasSantos96?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasSantos96?color=4310b0&labelColor=7349cc&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-   <a href="https://www.linkedin.com/in/lucas-santos-de-oliveira-874497325/">
-        <img 
-            alt="LinkedIn" 
-            title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasSantos96?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=in&label=LinkeDin&logoColor=white"
-        />
-    </a>
+   <!-- Botão do LinkedIn -->
+<a href="https://www.linkedin.com/in/lucas-santos-de-oliveira-874497325/" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    title="Me siga no LinkedIn" 
+    src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<!-- Botão do Portfólio -->
+<a href="https://portifolio-black-two-51.vercel.app" target="_blank">
+  <img 
+    alt="Portfólio" 
+    title="Meu Portfólio" 
+    src="https://custom-icon-badges.demolab.com/badge/-Portfólio-555555?style=for-the-badge&logo=internet-explorer&logoColor=white"
+  />
+</a>
 </p>
 
 ---
