@@ -81,6 +81,14 @@ Desenvolvedor com experiência prática em criação de sites e aplicações, ap
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
+    align="left" 
+    alt="NestJs" 
+    title="NestJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
   align="left"
   alt="Java"
   title="Java"
