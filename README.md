@@ -121,6 +121,15 @@ Experiência prática utilizando IA para criar aplicações e automatizar proces
 
 <br><br>
 
+### Automações
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="n8n" title="n8n" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/n8n/default.svg"/>  
+<img align="left" alt="Mastra" title="Mastra" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/mastra.svg"/>   
+<img align="left" alt="LangChain" title="LangChain" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg"/>   
+
+<br><br>
+
+
 ---
 
 ## 🧩 Arquitetura & Desenvolvimento
